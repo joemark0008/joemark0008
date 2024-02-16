@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Nestjs,Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-v2-sigma.vercel.app](https://personal-portfolio-v2-sigma.vercel.app)
+- 👨‍💻 All of my projects are available at [https://jjg.vercel.app)
 
 - 📫 How to reach me **joemark0008@gmail.com**
 
