@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JOEM</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-- 🌱 I’m currently learning **React,Nestjs,Nodejs**
+- 🌱 Tech Stack : **React,Nestjs,Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://jjg.vercel.app)
 
