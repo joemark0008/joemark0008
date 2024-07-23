@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOEM</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
+<h3 align="center">A passionate web developer from Philippines</h3>
 
 - 🌱 Tech Stack : **React,Nestjs,Nodejs**
 
