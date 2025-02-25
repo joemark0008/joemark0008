@@ -37,7 +37,6 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joemark0008&show_icons=true&locale=en" alt="joemark0008" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joemark0008&" alt="joemark0008" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joemark0008&show_icons=true&locale=en&layout=compact" alt="joemark0008" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joemark0008" alt="joemark0008" /></a></p>
