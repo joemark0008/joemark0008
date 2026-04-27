@@ -16,6 +16,6 @@ Based in Philippines | Open to opportunities
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joemark0008&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joemark0008&theme=dark" alt="GitHub Trophies" />
-</div>
+</div> -->
