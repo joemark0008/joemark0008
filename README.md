@@ -83,14 +83,17 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joemark0008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="joemark0008 stats" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=joemark0008&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemark0008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top languages" />
-</p>
+
+<!--
+  Stats + top-languages cards removed: the shared github-readme-stats.vercel.app
+  instance is rate-limited/down. To restore them, deploy your own fork (see note above)
+  and paste your Vercel domain in place of github-readme-stats.vercel.app:
+
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/api?username=joemark0008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=joemark0008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+-->
 
 ### 🧰 Core Stack
 
