@@ -75,22 +75,35 @@
 
 ### 📊 GitHub Stats
 
+<!--
+  NOTE: If these cards show "Error Fetching Resource", the shared public instance is
+  rate-limited. Fix: fork github.com/anuraghazra/github-readme-stats, deploy to Vercel
+  with env var PAT_1 = your GitHub personal access token, then replace
+  "github-readme-stats.vercel.app" below with your own deployment domain.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joemark0008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="joemark0008 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joemark0008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="joemark0008 stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joemark0008&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemark0008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemark0008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top languages" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
+### 🧰 Core Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joemark0008&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="trophies" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
