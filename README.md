@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on **hospital information systems (HISD3)** — full stack development and DevOps
 - 🌱 I'm currently learning **Kubernetes, ArgoCD, and advanced GraphQL patterns**
 - 💬 Ask me about **Next.js, NestJS, Prisma, GraphQL, PostgreSQL, Docker, and CI/CD**
-- 👨‍💻 All of my projects are available at [jjg.vercel.app](https://jjg.vercel.app/)
+- 👨‍💻 All of my projects are available at https://joemarkgimeno.com
 - 📫 How to reach me: **joemark0008@gmail.com**
 - ⚡ Fun fact: **10+ years in healthcare IT — I've deployed systems in 25+ hospitals across the Philippines**
 
