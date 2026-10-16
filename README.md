@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/joemarkgimeno" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joemarkgimeno" height="30" width="40" />
   </a>
-  <a href="https://jjg.vercel.app/" target="_blank">
+  <a href="https://joemarkgimeno.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" height="30" />
   </a>
   <a href="mailto:joemark0008@gmail.com">
