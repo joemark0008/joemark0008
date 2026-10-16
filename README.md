@@ -15,6 +15,7 @@
 - 👨‍💻 All of my projects are available at https://joemarkgimeno.com
 - 📫 How to reach me: **joemark0008@gmail.com**
 - ⚡ Fun fact: **10+ years in healthcare IT — I've deployed systems in 25+ hospitals across the Philippines**
+- 💬 youtube - https://www.youtube.com/@joembuilds
 
 ---
 
